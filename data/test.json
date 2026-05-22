@@ -1,0 +1,145 @@
+{
+  "title": "Relatório de repositórios GitLab",
+  "sections": [
+    {
+      "title": "dashboard-msoffice",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/dashboard-msoffice" },
+        { "label": "Autores", "value": "Joao Bezerra da Silva" }
+      ]
+    },
+    {
+      "title": "PE - Integrado",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/pe-integrado" },
+        { "label": "Autores", "value": "Cristian Nunes Macena" }
+      ]
+    },
+    {
+      "title": "Automate-Artefatos",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/automate-artefatos" },
+        { "label": "Autores", "value": "Julia Nunes de Araujo Silva" }
+      ]
+    },
+    {
+      "title": "Clickup Api Peintegrado",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/clickup_api_peintegrado" },
+        { "label": "Autores", "value": "Estevao Lucas Ramos da Silva" }
+      ]
+    },
+    {
+      "title": "rag_etl_scriptt_sgc",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/rag_etl_scriptt_sgc" },
+        { "label": "Autores", "value": "Estevao Lucas Ramos da Silva" }
+      ]
+    },
+    {
+      "title": "boillerplate-front-end",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/boillerplate-front-end" },
+        { "label": "Autores", "value": "devpabloh, Pablo Henrique Ferreira de Franca" }
+      ]
+    },
+    {
+      "title": "POC_CHATBOT_RN_MLP",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/poc_chatbot_rn_mlp" },
+        { "label": "Autores", "value": "Estevao Lucas Ramos da Silva" }
+      ]
+    },
+    {
+      "title": "Automate-Redmine",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/automate-redmine" },
+        { "label": "Autores", "value": "Cristian Nunes Macena, Julia Nunes de Araujo Silva" }
+      ]
+    },
+    {
+      "title": "python-boilerplate-project",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/python-boilerplate-project" },
+        { "label": "Autores", "value": "Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "schedules_sync",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/schedules_sync" },
+        { "label": "Autores", "value": "Estevao Lucas Ramos da Silva, Lude Luigi Marcopolo Nogueira, luccve" }
+      ]
+    },
+    {
+      "title": "Extensao Gov",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/extensao-gov" },
+        { "label": "Autores", "value": "Paulo Victor Rodrigues Gomes" }
+      ]
+    },
+    {
+      "title": "RPA_prestacao-contas-efisco",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/rpa_prestacao-contas-efisco" },
+        { "label": "Autores", "value": "Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "POC_AIBUILDER",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/poc_aibuilder" },
+        { "label": "Autores", "value": "Estevao Lucas Ramos da Silva" }
+      ]
+    },
+    {
+      "title": "RPA-prestacao-contas-retencoes",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/rpa-prestacao-contas-retencoes" },
+        { "label": "Autores", "value": "Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "sgc-web-converter-mapa-de-preco-planilha",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/sgc-web-converter-mapa-de-preco-planilha" },
+        { "label": "Autores", "value": "devpabloh, Cristian Nunes Macena, Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "sgc-api-converter-mapa-de-preco-planilha",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/sgc-api-converter-mapa-de-preco-planilha" },
+        { "label": "Autores", "value": "Cristian Nunes Macena, Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "chatbot-nginx",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/chatbot-nginx" },
+        { "label": "Autores", "value": "Diogo Marcondes, Lude Luigi Marcopolo Nogueira, Cristian Nunes Macena, Bruno Brandao de Queiroga Cavalcanti" }
+      ]
+    },
+    {
+      "title": "testes_automatizados_ouvir_para_mudar",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/testes_automatizados_ouvir_para_mudar" },
+        { "label": "Autores", "value": "Pablo Henrique Ferreira de Franca, devpabloh, Daniel Antonio Silva, Junior Santos" }
+      ]
+    },
+    {
+      "title": "rpa-fiscal",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/rpa-fiscal" },
+        { "label": "Autores", "value": "Paulo Victor Rodrigues Gomes, paulovrodriguesg, Rodrigo Santos do Nascimento, Daniel Antonio Silva" }
+      ]
+    },
+    {
+      "title": "sincronizar-eventos-do-email",
+      "items": [
+        { "label": "Link", "value": "http://gitlab.pe.gov.br/gtd/sincronizar-eventos-do-email" },
+        { "label": "Autores", "value": "Pablo Henrique Ferreira de Franca" }
+      ]
+    }
+  ]
+}
